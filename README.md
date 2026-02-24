@@ -39,7 +39,7 @@ When studying on overseas textbook platforms like Kaplan or BibliU, students oft
 **1. Prerequisites**
 Ensure Python 3.8+ is installed. Clone this repository:
 ```bash
-git clone [https://github.com/YourUsername/AI-Study-Assistant.git](https://github.com/YourUsername/AI-Study-Assistant.git)
+git clone [https://github.com/Xingyu-S/AI-Study-Assistant.git](https://github.com/Xingyu-S/AI-Study-Assistant.git)
 cd AI-Study-Assistant
 ```
 

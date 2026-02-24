@@ -60,3 +60,14 @@ python main.py
 - **GUI Framework**: PyQt6, PyQt6-WebEngine
 - **AI API**: Google Generative AI (Gemini 1.5 Flash API)
 - **Frontend Render**: Markdown (Python), MathJax, HTML/CSS
+
+## 📝 Acknowledgements & Declaration (致谢与声明)
+
+This project was conceptually designed, architected, and continuously tested by the author. During the development process, **Google Gemini** was utilized as an AI Pair Programmer to assist with:
+- Generating Python/PyQt6 boilerplate code.
+- Troubleshooting QtWebEngine rendering issues (e.g., MathJax integration).
+- Refining and optimizing code structure.
+
+All core logic, system design decisions, and prompt engineering were independently directed, reviewed, and verified by the author. 
+
+*(本项目由作者独立完成概念设计、架构规划与测试。在开发过程中，使用了 **Google Gemini** 作为 AI 辅助编程工具，协助生成 PyQt6 基础代码、解决浏览器渲染 Bug 及优化代码结构。所有核心逻辑、系统设计及提示词工程均由作者主导并严格审查。)*

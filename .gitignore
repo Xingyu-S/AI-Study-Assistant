@@ -1,0 +1,23 @@
+# 忽略 API 密钥文件 (绝对不能上传！！！)
+gemini_API.txt
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
+# 忽略打包生成的文件夹
+build/
+dist/
+*.spec
+
+# 忽略本地的 AI 聊天记录和配置文件
+.ai_data/
+global_config.json
+
+# 忽略测试用的文档
+*.pdf
+# 如果你只想忽略特定文件，可以把上一行换成具体文件名，例如：测试.pdf
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
